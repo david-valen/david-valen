@@ -22,6 +22,6 @@ I have a background as a computer systems administrator although I am currently 
 ## 💬 How to reach me :
 
 #### Email : [valenzueladvargas@gmail.com](valenzueladvargas@gmail.com)
-#### Instagram : [@david_valen93](https://www.instagram.com/knightbearr/)
-#### Twitter : [@david_valen](https://twitter.com/david_valen)
 #### LinkedIn : [David Valenzuela Vargas](https://www.linkedin.com/in/david-valenzuela-vargas/)
+#### Twitter : [@david_valen](https://twitter.com/david_valen)
+#### Instagram : [@david_valen93](https://www.instagram.com/knightbearr/)
