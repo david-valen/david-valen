@@ -7,11 +7,16 @@ I have a background as a computer systems administrator although I am currently 
 
 ## 📈 Languages and Tools :
 
-- Python, Bash, MySQL & PHP.
-- Knowledge of cybersecurity software (Nmap, Nessus, etc).
-- Knowledge of system administration software (Windows Server, Ubuntu Server, etc).
-- Knowledge of Cloud Computing Services (Oracle Cloud, Clouding, etc).
-- Backup systems.
+- Intrusion test simulations in controlled environments, mainly using virtualized environments in GNS3.
+- Applications used for vulnerability enumeration such as Nmap, Nessus, Nikto, Wfuzz, WPScan, Metasploit, Whireshark, Hydra, Burpsuite, etc.
+- Monitorización y respuesta a incidentes, realización de planes director de seguridad, control de ISO 27000, 27001, 27002 y análisis de riesgos.
+- Incident monitoring and response, implementation of security master plans, control of ISO 27000, 27001, 27002 and risk analysis.
+- Extraction of information on open sources OSINT.
+- Control of IDS, IPS and SIEM detection systems.
+- Documentation of technical reports.
+- Snort, ELK, etc. monitoring applications.
+- Knowledge of OWASP methodology.
+- Python and use of Git.
 
 ## ⚡ My Interest & Activities :
 
