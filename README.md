@@ -9,7 +9,6 @@ I have a background as a computer systems administrator although I am currently 
 
 - Intrusion test simulations in controlled environments, mainly using virtualized environments in GNS3.
 - Applications used for vulnerability enumeration such as Nmap, Nessus, Nikto, Wfuzz, WPScan, Metasploit, Whireshark, Hydra, Burpsuite, etc.
-- Monitorización y respuesta a incidentes, realización de planes director de seguridad, control de ISO 27000, 27001, 27002 y análisis de riesgos.
 - Incident monitoring and response, implementation of security master plans, control of ISO 27000, 27001, 27002 and risk analysis.
 - Extraction of information on open sources OSINT.
 - Control of IDS, IPS and SIEM detection systems.
