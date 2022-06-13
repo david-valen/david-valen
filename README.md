@@ -27,5 +27,5 @@ I have a background as a computer systems administrator although I am currently 
 
 #### Email : [valenzueladvargas@gmail.com](valenzueladvargas@gmail.com)
 #### LinkedIn : [David Valenzuela Vargas](https://www.linkedin.com/in/david-valenzuela-vargas/)
-#### Twitter : [@david_valen](https://twitter.com/david_v4l3n)
-#### Instagram : [@david_valen93](https://www.instagram.com/david_v4l3n/)
+#### Twitter : [@david_v4l3n](https://twitter.com/david_v4l3n)
+#### Instagram : [@david_v4l3n](https://www.instagram.com/david_v4l3n/)
