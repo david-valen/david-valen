@@ -1,4 +1,4 @@
-# Hello World! <img src="https://user-images.githubusercontent.com/55252776/89190633-52f82a80-d5d4-11ea-9108-dcd620e4594a.gif" width="1px">
+# Hello World! <img src="https://gist.githubusercontent.com/Prince-Shivaram/3ace2c813ca49546f3f5f20cd03a2d3e/raw/6058e76860d16ee29df949da3166b3653959318f/hello.gif" width="10px">
 
 ## > WHOAMI
 My name is David Valenzuela, I'm still not clear what alias I need to be a good hacker.
